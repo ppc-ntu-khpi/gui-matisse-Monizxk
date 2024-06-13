@@ -1,3 +1,10 @@
+## Виконання завдання:
+
+![](assets/1.png)
+![](assets/2.png)
+![](assets/3.png)
+
+
 # UI Lab 4
 ![](terminal-icon.png)
 ![](gui-icon.png)
